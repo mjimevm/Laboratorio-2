@@ -1,6 +1,6 @@
 # Laboratorio-2
 
-Repositorio del Laboratorio 2 para [tu curso o materia]. Implementación en Java de la dinámica de un juego de cartas estructurado en varias clases.
+Repositorio del Laboratorio 2 para Programación Orientada a Objetos. Implementación en Java de la dinámica de un juego de cartas estructurado en varias clases.
 
 ## Contenido
 
